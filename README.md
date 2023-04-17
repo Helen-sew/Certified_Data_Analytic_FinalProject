@@ -6,3 +6,6 @@ the important features of the best model and examines the demographics of the cu
 based on those features. While the report provides a brief product analysis by product name,
 further research is needed to better understand the specific product preferences of each
 customer cluster.
+
+In this report the datasets described below were examined using data analytics tools including:
+codes written in Python language, MS Excel and Power BI software.
